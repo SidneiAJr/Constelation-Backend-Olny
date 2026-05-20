@@ -1,5 +1,16 @@
 # 🏗️ Constellation Backend Only
 
+---
+## 🚀 Tecnologias
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=50 />  
+</p>
+---
+
 ## 7 Architectures. 4 Languages. 28 Skeletons.
 
 *"Tired of creating the same folder structure every time you start a project? It's already here."*
